@@ -1,4 +1,4 @@
-# PROJECT-CST3145-CW1
+# PROJECT-CST3145-CW2 Frontend
 This Vue.js web application, developed by Taha Farooqui and hosted on Elastic Beanstalk, utilizes a MongoDB database with two collections: Lessons and Orders. It is designed as a mobile app to manage lessons and a shopping cart, offering various functionalities to enhance the user experience.
 
 ## Frontend - Vue.js Application
