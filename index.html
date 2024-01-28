@@ -280,7 +280,7 @@
 						search: this.searchQuery
 					}).toString();
 
-					fetch(`${BASE_URL}lessons?${queryParams}`)
+					fetch(`${BASE_URL}lessons/all-lessons?${queryParams}`)
 						.then(response => response.json())
 						.then(data => {
 							this.lessons = data;
@@ -289,7 +289,7 @@
 				},	
 				// Create an order
 				createOrder(orderData) {
-					fetch(`${BASE_URL}orders`, {
+					fetch(`${BASE_URL}orders/create-order`, {
 						method: 'POST',
 						headers: {
 							'Content-Type': 'application/json',
