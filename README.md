@@ -1,28 +1,21 @@
 # PROJECT-CST3145-CW1
-PROJECT-CST3145-CW1
+This Vue.js web application, developed by Taha Farooqui and hosted on Elastic Beanstalk, utilizes a MongoDB database with two collections: Lessons and Orders. It is designed as a mobile app to manage lessons and a shopping cart, offering various functionalities to enhance the user experience.
 
-# Vue Web Application
+## Frontend - Vue.js Application
 
-This Vue.js web application, developed by Taha Farooqui, is a mobile app for managing lessons, a shopping cart, and various functionalities to enhance the user experience.
+- **GitHub Repository:** [Vue.js App Repository](https://github.com/tahafarooqui/PROJECT-CST3145-CW2-Frontend)
+- **Live Application:** [Vue.js App on GitHub Pages](https://tahafarooqui.github.io/PROJECT-CST3145-CW2-Frontend/)
 
-## Features
+## Backend - Express.js Application
 
-- Add lessons to the shopping cart
-- Remove lessons from the cart
-- Update quantities of lessons in the cart
-- Sort lessons based on different criteria
-- Search for lessons by name or location
+- **GitHub Repository:** [Express.js App Repository](https://github.com/tahafarooqui/PROJECT-CST3145-CW2-Backend)
 
-## Getting Started
+## AWS Express.js Application
 
-### Prerequisites
+- **Live AWS Route:** [AWS Route for Express.js App](https://mdxapp.eu-west-2.elasticbeanstalk.com/)
 
-Make sure you have the following installed:
+## Additional Information
 
-- [Vue.js](https://vuejs.org/)
-- Any web server or development environment to host the application
+For more detailed information about each component, please refer to their respective repositories. Each repository includes specific instructions on setup, usage, and deployment.
 
-## Vue.js App Repository and GitHub Pages
-
-- Vue.js App Repository:   [Vue.js App Repository](https://github.com/tahafarooqui/PROJECT-CST3145-CW1)
-- Vue.js App GitHub Pages: [Vue.js App GitHub Pages](https://tahafarooqui.github.io/PROJECT-CST3145-CW1/)
+Thank you for visiting my project!
